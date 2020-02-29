@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ham4690/express_test_page/issues"
   },
-  "homepage": "https://github.com/Ham4690/express_test_page#readme"
+  "homepage": "https://github.com/Ham4690/express_test_page#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
