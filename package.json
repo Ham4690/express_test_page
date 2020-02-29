@@ -1,0 +1,19 @@
+{
+  "name": "project_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ham4690/express_test_page.git"
+  },
+  "author": "ham4690",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ham4690/express_test_page/issues"
+  },
+  "homepage": "https://github.com/Ham4690/express_test_page#readme"
+}
